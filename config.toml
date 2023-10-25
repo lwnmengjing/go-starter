@@ -1,0 +1,37 @@
+baseURL = "https://go-starter.mss-boot-io.top"
+languageCode = "en-us"
+title = "golang起航"
+theme = "anatole"
+[params]
+author = "lwnmengjing"
+description = "lwnmengjing 的技术分享"
+profilePicture = "images/mss-boot.png"
+headerTitle = "lwnmengjing 的博客"
+motto = "与其感慨路难行，不如马上出发。"
+favicon = "/"
+
+[menu]
+
+[[menu.main]]
+name = "主页"
+identifier = "home"
+weight = 100
+url = "/"
+
+[[menu.main]]
+name = "go-admin周边"
+weight = 200
+identifier = "go-admin"
+url = "/go-admin/"
+
+[[menu.main]]
+name = "go-admin视频教程"
+weight = 300
+identifier = "go-admin-video"
+url = "/go-admin/go-admin-learn/"
+
+[[menu.main]]
+name = "关于"
+weight = 400
+identifier = "about"
+url = "/about/"
