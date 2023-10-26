@@ -8,6 +8,7 @@ DisableComments: false
 ---
 
 # Kubernetes（K8s）操作工具推荐
+<!--more-->
 
 在Kubernetes（K8s）操作中，使用适当的工具可以简化任务并提高效率。以下是一些常见的Kubernetes操作工具，以及它们的简要介绍和相关资源链接。
 

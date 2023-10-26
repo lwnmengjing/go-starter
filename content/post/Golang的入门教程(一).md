@@ -2,8 +2,8 @@
 title: "Golang的入门教程(一)"
 date: 2023-10-25T10:13:13+08:00
 Description: ""
-Tags: [k8s]
-Categories: [k8s]
+Tags: [go]
+Categories: [go]
 DisableComments: false
 ---
 ## Go语言特性
